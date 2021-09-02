@@ -1,1 +1,1 @@
-# Instagram3DTouchAnimation
+# Instagram 3D touch animation
